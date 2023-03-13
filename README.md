@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 The Complete Web Development Course</h1><br>
 
-<table style="border-collapse: collapse; border: 0;">
+<table>
   <tr>
     <td align="center">
       <a href="https://html.com/">
@@ -46,6 +46,13 @@
     </td>
   </tr>
 </table>
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 
 <br><br>
 <p align="center">
