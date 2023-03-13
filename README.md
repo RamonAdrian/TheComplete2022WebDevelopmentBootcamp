@@ -47,12 +47,6 @@
   </tr>
 </table>
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 
 <br><br>
 <p align="center">
