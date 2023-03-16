@@ -79,30 +79,29 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 ### Intermediate CSS
 ### Introduction to Bootstrap 4
 ### Intermediate Bootstrap
-### Web Design School 
-### Create a Website that People Love
+### Web Design School - Create a Website that People Love
 ### Introduction to Javascript ES62
 ### Intermediate Javascript
-### The Document Object Model (DOM) 
-### Boss Level Challenge 1 ### The Dicee Game 
+### The Document Object Model (DOM)
+### Boss Level Challenge 1 - The Dicee Game 
 ### Advanced Javascript and DOM Manipulation 
 ### jQuery 
-### Boss Level Challenge 2 ### The Simon Game 
+### Boss Level Challenge 2 - The Simon Game 
 ### The Unix Command Line 
 ### Backend Web Development 
 ### Node.js 
 ### Express.js with Node.js 
-### APIs ### Application Programming Interfaces 
+### APIs - Application Programming Interfaces 
 ### Git, Github and Version Control 
 ### EJS 
-### Boss Level Challenge 3 ### Blog Website 
+### Boss Level Challenge 3 - Blog Website 
 ### Databases 
 ### SQL 
 ### MongoDB 
 ### Mongoose 
 ### Putting Everything Together 
 ### Deploying Your Web Application 
-### Boss Level Challenge 4 ### Blog Website Upgrade 
+### Boss Level Challenge 4 - Blog Website Upgrade 
 ### Build Your Own RESTful API From Scratch 
 ### Authentication & Security 
 ### React.js 
