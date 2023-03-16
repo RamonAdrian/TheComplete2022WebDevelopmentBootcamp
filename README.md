@@ -90,11 +90,11 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 ### The Unix Command Line
 ### Backend Web Development
 ### Node.js
-### Express.js with Node.js 
-### APIs - Application Programming Interfaces 
-### Git, Github and Version Control 
-### EJS 
-### Boss Level Challenge 3 - Blog Website 
+### Express.js with Node.js
+### APIs - Application Programming Interfaces
+### Git, Github and Version Control
+### EJS
+### Boss Level Challenge 3 - Blog Website
 ### Databases 
 ### SQL 
 ### MongoDB 
