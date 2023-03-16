@@ -95,21 +95,21 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 ### Git, Github and Version Control
 ### EJS
 ### Boss Level Challenge 3 - Blog Website
-### Databases 
-### SQL 
-### MongoDB 
-### Mongoose 
-### Putting Everything Together 
-### Deploying Your Web Application 
-### Boss Level Challenge 4 - Blog Website Upgrade 
-### Build Your Own RESTful API From Scratch 
-### Authentication & Security 
-### React.js 
-### Web3 Decentralised App (DApp) Development with the Internet Computer 
-### Build Your First Defi (Decentralised Finance) DApp – DBANK 
-### Deploying to the ICP Live Blockchain 
-### Building DApps on ICP with a React Frontend 
-### Create Your Own Crypto Token 
+### Databases
+### SQL
+### MongoDB
+### Mongoose
+### Putting Everything Together
+### Deploying Your Web Application
+### Boss Level Challenge 4 - Blog Website Upgrade
+### Build Your Own RESTful API From Scratch
+### Authentication & Security
+### React.js
+### Web3 Decentralised App (DApp) Development with the Internet Computer
+### Build Your First Defi (Decentralised Finance) DApp – DBANK
+### Deploying to the ICP Live Blockchain
+### Building DApps on ICP with a React Frontend
+### Create Your Own Crypto Token
 ### Minting NFTs and Building an NFT Marketplace like OpenSea
 ### Optional Module: Ask Angela Anything
 ### Next Steps
