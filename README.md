@@ -72,11 +72,11 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 
 # Web Development Course Content
 
-### Front-End Web Development
-### Introduction to HTML
-### Intermediate HTML
-### Introduction to CSS
-### Intermediate CSS
+### 🚀 Front-End Web Development
+### 🚀 Introduction to HTML
+### 🚀 Intermediate HTML
+### 🚀 Introduction to CSS
+### 🚀 Intermediate CSS
 ### Introduction to Bootstrap 4
 ### Intermediate Bootstrap
 ### Web Design School - Create a Website that People Love
