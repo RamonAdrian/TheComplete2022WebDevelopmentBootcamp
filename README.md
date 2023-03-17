@@ -108,8 +108,8 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 ### 🚀 Web3 Decentralised App (DApp) Development with the Internet Computer
 ### 🚀 Build Your First Defi (Decentralised Finance) DApp – DBANK
 ### 🚀 Deploying to the ICP Live Blockchain
-### Building DApps on ICP with a React Frontend
-### Create Your Own Crypto Token
-### Minting NFTs and Building an NFT Marketplace like OpenSea
-### Optional Module: Ask Angela Anything
-### Next Steps
+### 🚀 Building DApps on ICP with a React Frontend
+### 🚀 Create Your Own Crypto Token
+### 🚀 Minting NFTs and Building an NFT Marketplace like OpenSea
+### 🚀 Optional Module: Ask Angela Anything
+### 🚀 Next Steps
