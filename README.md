@@ -87,16 +87,16 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 ### 🚀 Section 13: Advanced Javascript and DOM Manipulation
 ### 🚀 Section 14: jQuery
 ### 🚀 Section 15: Boss Level Challenge 2 - The Simon Game
-### 🚀 The Unix Command Line
-### 🚀 Backend Web Development
-### 🚀 Node.js
-### 🚀 Express.js with Node.js
-### 🚀 APIs - Application Programming Interfaces
-### 🚀 Git, Github and Version Control
-### 🚀 EJS
-### 🚀 Boss Level Challenge 3 - Blog Website
-### 🚀 Databases
-### 🚀 SQL
+### 🚀 Section 16: The Unix Command Line
+### 🚀 Section 17: Backend Web Development
+### 🚀 Section 18: Node.js
+### 🚀 Section 19: Express.js with Node.js
+### 🚀 Section 20: APIs - Application Programming Interfaces
+### 🚀 Section 21: Git, Github and Version Control
+### 🚀 Section 22: EJS
+### 🚀 Section 23: Boss Level Challenge 3 - Blog Website
+### 🚀 Section 24: Databases
+### 🚀 Section 25: SQL
 ### 🚀 MongoDB
 ### 🚀 Mongoose
 ### 🚀 Putting Everything Together
