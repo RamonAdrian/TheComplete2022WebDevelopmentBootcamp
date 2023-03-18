@@ -70,7 +70,7 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 <hr>
 <br><br>
 
-# Web Development Course Content
+# 💻 Web Development Course Content
 
 ### 🚀 Section 1: Front-End Web Development
 ### 🚀 Section 2: Introduction to HTML
