@@ -82,11 +82,11 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 ### 🚀 Section 8: Web Design School - Create a Website that People Love
 ### 🚀 Section 9: Introduction to Javascript ES62
 ### 🚀 Section 10: Intermediate Javascript
-### 🚀 The Document Object Model (DOM)
-### 🚀 Boss Level Challenge 1 - The Dicee Game
-### 🚀 Advanced Javascript and DOM Manipulation
-### 🚀 jQuery
-### 🚀 Boss Level Challenge 2 - The Simon Game
+### 🚀 Section 11: The Document Object Model (DOM)
+### 🚀 Section 12: Boss Level Challenge 1 - The Dicee Game
+### 🚀 Section 13: Advanced Javascript and DOM Manipulation
+### 🚀 Section 14: jQuery
+### 🚀 Section 15: Boss Level Challenge 2 - The Simon Game
 ### 🚀 The Unix Command Line
 ### 🚀 Backend Web Development
 ### 🚀 Node.js
