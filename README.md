@@ -77,11 +77,11 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 ### 🚀 Section 3: Intermediate HTML
 ### 🚀 Section 4: Introduction to CSS
 ### 🚀 Section 5: Intermediate CSS
-### 🚀 Introduction to Bootstrap 4
-### 🚀 Intermediate Bootstrap
-### 🚀 Web Design School - Create a Website that People Love
-### 🚀 Introduction to Javascript ES62
-### 🚀 Intermediate Javascript
+### 🚀 Section 6: Introduction to Bootstrap 4
+### 🚀 Section 7: Intermediate Bootstrap
+### 🚀 Section 8: Web Design School - Create a Website that People Love
+### 🚀 Section 9: Introduction to Javascript ES62
+### 🚀 Section 10: Intermediate Javascript
 ### 🚀 The Document Object Model (DOM)
 ### 🚀 Boss Level Challenge 1 - The Dicee Game
 ### 🚀 Advanced Javascript and DOM Manipulation
