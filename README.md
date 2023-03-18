@@ -97,11 +97,11 @@ The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript 
 ### 🚀 Section 23: Boss Level Challenge 3 - Blog Website
 ### 🚀 Section 24: Databases
 ### 🚀 Section 25: SQL
-### 🚀 MongoDB
-### 🚀 Mongoose
-### 🚀 Putting Everything Together
-### 🚀 Deploying Your Web Application
-### 🚀 Boss Level Challenge 4 - Blog Website Upgrade
+### 🚀 Section 26: MongoDB
+### 🚀 Section 27: Mongoose
+### 🚀 Section 28: Putting Everything Together
+### 🚀 Section 29: Deploying Your Web Application
+### 🚀 Section 30: Boss Level Challenge 4 - Blog Website Upgrade
 ### 🚀 Build Your Own RESTful API From Scratch
 ### 🚀 Authentication & Security
 ### 🚀 React.js
