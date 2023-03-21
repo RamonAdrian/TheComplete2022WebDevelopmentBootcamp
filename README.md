@@ -51,7 +51,10 @@
 <br><br>
 <p align="center">
   <img width="400" src="1.png">
-</p><br><br>
+</p>
+<hr>
+<br><br>
+
 
 The complete full-stack web development bootcamp with HTML 5, CSS 3, Javascript ES6, Bootstrap 4, JQuery, Node.js, MongoDB and more!
 <br><br>
