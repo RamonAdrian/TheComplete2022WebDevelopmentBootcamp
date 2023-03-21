@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 The Complete Web Development Course</h1><br>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://html.com/">
