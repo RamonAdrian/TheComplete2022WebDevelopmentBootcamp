@@ -6,7 +6,7 @@
 - Presentación de la instructora
 - Experiencia de la instructora
 
-II. Contenido del curso
+**II. Contenido del curso**
 
 - Duración del curso
 - Contenido multimedia disponible
