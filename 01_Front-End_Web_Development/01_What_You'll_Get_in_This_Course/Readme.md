@@ -14,7 +14,7 @@
 - Enfoque del curso en proyectos prácticos
 - Proyectos que se construirán en el curso
 
-III. Audiencia del curso
+**III. Audiencia del curso**
 
 - Curso diseñado para principiantes
 - Curso accesible para desarrolladores avanzados
