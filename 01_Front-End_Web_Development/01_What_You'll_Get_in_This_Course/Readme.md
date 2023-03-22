@@ -1,6 +1,6 @@
 # Introducción a un curso de desarrollo web
 
-I. Presentación
+**I. Presentación**
 
 - Saludo y bienvenida
 - Presentación de la instructora
