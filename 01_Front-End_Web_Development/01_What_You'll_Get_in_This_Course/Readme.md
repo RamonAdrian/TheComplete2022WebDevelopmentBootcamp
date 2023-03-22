@@ -25,7 +25,7 @@
 - Ventajas de tomar un curso en línea
 - Testimonios de estudiantes anteriores
 
-V. Invitación a tomar el curso
+**V. Invitación a tomar el curso**
 
 - Resumen de los beneficios del curso
 - Invitación a unirse al curso
