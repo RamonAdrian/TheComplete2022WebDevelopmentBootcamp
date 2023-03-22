@@ -16,8 +16,9 @@ II. Contenido del curso
 
 III. Audiencia del curso
 
-Curso diseñado para principiantes
-Curso accesible para desarrolladores avanzados
+- Curso diseñado para principiantes
+- Curso accesible para desarrolladores avanzados
+
 IV. Comparación con otros cursos
 
 Costo de un curso presencial
