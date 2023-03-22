@@ -19,7 +19,7 @@
 - Curso diseñado para principiantes
 - Curso accesible para desarrolladores avanzados
 
-IV. Comparación con otros cursos
+**IV. Comparación con otros cursos**
 
 - Costo de un curso presencial
 - Ventajas de tomar un curso en línea
