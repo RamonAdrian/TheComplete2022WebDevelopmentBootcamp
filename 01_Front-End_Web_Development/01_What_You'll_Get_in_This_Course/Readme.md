@@ -30,6 +30,6 @@ V. Invitación a tomar el curso
 - Resumen de los beneficios del curso
 - Invitación a unirse al curso
 
-Conceptos clave: desarrollo web, HTML, CSS, Node, React, MERN stack, 
+**Conceptos clave:** desarrollo web, HTML, CSS, Node, React, MERN stack, 
 proyectos prácticos, principiantes, desarrolladores avanzados, cursos en línea, 
 testimonios, beneficios del curso.
