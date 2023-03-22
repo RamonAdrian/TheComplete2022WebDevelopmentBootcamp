@@ -21,9 +21,10 @@ III. Audiencia del curso
 
 IV. Comparación con otros cursos
 
-Costo de un curso presencial
-Ventajas de tomar un curso en línea
-Testimonios de estudiantes anteriores
+- Costo de un curso presencial
+- Ventajas de tomar un curso en línea
+- Testimonios de estudiantes anteriores
+
 V. Invitación a tomar el curso
 
 Resumen de los beneficios del curso
