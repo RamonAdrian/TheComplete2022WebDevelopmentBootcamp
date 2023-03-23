@@ -41,7 +41,9 @@
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
       </a>, <a href="https://www.free-css.com/">
         <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-      </a>, Node, React, MERN stack, 
+      </a>, <a href="https://nodejs.org/">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+      </a>, React, MERN stack, 
 proyectos prácticos, principiantes, desarrolladores avanzados, cursos en línea, 
 testimonios, beneficios del curso.
 
