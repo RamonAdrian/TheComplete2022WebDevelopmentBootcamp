@@ -40,6 +40,7 @@
 - Ventajas de tomar un curso en línea
   > Acceso al mismo plan de estudios que el Bootcamp de programación en persona, ahorro de tiempo y costo en comparación con un Bootcamp en persona.
 - Testimonios de estudiantes anteriores
+  > Calificación: 4,7 de 5 estrellas (272.342 calificaciones) y 921.627 estudiantes han tomado este curso.
 
 **V. Invitación a tomar el curso**
 
