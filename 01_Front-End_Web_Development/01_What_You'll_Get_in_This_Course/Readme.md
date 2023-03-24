@@ -48,6 +48,8 @@
   > Acceso a un plan de estudios profesional que cubre todos los aspectos del desarrollo web, proyectos prácticos, contenido multimedia, y una guía paso a paso para principiantes.
 - Invitación a unirse al curso
   > Se invita cordialmente a todo el que esté interesado a unirse al curso de Desarrollo Web Fron End.
+
+  
 **Conceptos clave:** desarrollo web, <a href="https://html.com/">
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
       </a>, <a href="https://www.free-css.com/">
