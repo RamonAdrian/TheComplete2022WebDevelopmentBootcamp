@@ -45,6 +45,7 @@
 **V. Invitación a tomar el curso**
 
 - Resumen de los beneficios del curso
+  > Acceso a un plan de estudios profesional que cubre todos los aspectos del desarrollo web, proyectos prácticos, contenido multimedia, y una guía paso a paso para principiantes.
 - Invitación a unirse al curso
 
 **Conceptos clave:** desarrollo web, <a href="https://html.com/">
