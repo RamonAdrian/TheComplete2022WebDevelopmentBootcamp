@@ -26,6 +26,7 @@
   > 41 secciones • 490 clases • 65 h 33 m de duración total
 - Enfoque del curso en proyectos prácticos
 - Proyectos que se construirán en el curso
+  > Una página web de producto, juegos y aplicaciones musicales, una lista de tareas y un gestor de proyectos.
 
 **III. Audiencia del curso**
 
