@@ -36,6 +36,7 @@
 **IV. Comparación con otros cursos**
 
 - Costo de un curso presencial
+  > En lugar de gastar $12,000 en un Bootcamp en persona, los estudiantes pueden obtener acceso al mismo plan de estudios por un costo menor.
 - Ventajas de tomar un curso en línea
 - Testimonios de estudiantes anteriores
 
