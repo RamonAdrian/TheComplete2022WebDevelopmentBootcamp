@@ -10,7 +10,7 @@
 **I. Presentación**
 
 - Saludo y bienvenida
-  > Se les saluda y se les da la mas cordial bienvenida.
+  > Se les saluda y se les da la mas cordial bienvenida ak curso de Desarrollo Web Front End.
 - Presentación de Dra. Angela Yu:
   > Desarrolladora senior y la instructora principal en el London App Brewery.
 - Experiencia de la instructora
