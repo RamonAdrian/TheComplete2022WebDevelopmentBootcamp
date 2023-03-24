@@ -11,7 +11,7 @@
 
 - Saludo y bienvenida
 - Presentación de Dra. Angela Yu:
-  desarrolladora senior y la instructora principal en el London App Brewery.
+  >desarrolladora senior y la instructora principal en el London App Brewery.
 - Experiencia de la instructora
   Ha enseñado a más de un millón de estudiantes en todo el mundo, tanto en persona como en línea.
 **II. Contenido del curso**
