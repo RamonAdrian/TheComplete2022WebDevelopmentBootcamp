@@ -19,7 +19,9 @@
 **II. Contenido del curso**
 
 - Duración del curso
+  > 65 Horas.
 - Contenido multimedia disponible
+  > Más de 55 horas de contenido de video HD, tutoriales paso a paso, ejercicios de codificación interactivos, cuestionarios y mucho más.
 - Curriculum del curso
 - Enfoque del curso en proyectos prácticos
 - Proyectos que se construirán en el curso
