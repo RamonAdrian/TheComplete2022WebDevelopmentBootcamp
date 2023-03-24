@@ -10,7 +10,8 @@
 **I. Presentación**
 
 - Saludo y bienvenida
-- Presentación de la instructora
+- Presentación de Dra. Angela Yu:
+  desarrolladora senior y la instructora principal en el London App Brewery.
 - Experiencia de la instructora
 
 **II. Contenido del curso**
