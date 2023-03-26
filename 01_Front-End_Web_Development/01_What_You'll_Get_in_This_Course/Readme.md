@@ -36,7 +36,7 @@
 **IV. Comparación con otros cursos**
 
 - Costo de un curso presencial
-  > En lugar de gastar $12,000 en un Bootcamp en persona, los estudiantes pueden obtener acceso al mismo plan de estudios por un costo menor.
+  > En lugar de gastar $12,000 dolares en un Bootcamp en persona, los estudiantes pueden obtener acceso al mismo plan de estudios por un costo menor.
 - Ventajas de tomar un curso en línea
   > Acceso al mismo plan de estudios que el Bootcamp de programación en persona, ahorro de tiempo y costo en comparación con un Bootcamp en persona.
 - Testimonios de estudiantes anteriores
