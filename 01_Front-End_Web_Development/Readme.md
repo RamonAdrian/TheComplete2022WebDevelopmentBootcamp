@@ -1,6 +1,6 @@
 # Front-End Web Development
 
-1. What You'll Get in This Course
+1. [What You'll Get in This Course](./01_What_You'll_Get_in_This_Course/Readme.md)
 1. Download the Course Syllabus
 1. Download the Course Resources
 1. Download the 12 Rules to Learn to Code eBook
