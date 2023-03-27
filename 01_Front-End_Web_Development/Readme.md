@@ -15,7 +15,7 @@
 
     > Haga clic en el botón a continuación para descargar el PDF de recursos del curso, de modo que siempre que necesite un enlace podrá consultar la lista.
 
-    > <p><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/uc?export=download&amp;id=1LRN_G51Wm67rsry0mw1FrIfW8oXX6Zzz"><img align="middle" width="448" src="./Descargar.png" height="105"></a></p>
+    > <p><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/uc?export=download&amp;id=1LRN_G51Wm67rsry0mw1FrIfW8oXX6Zzz"><img align="middle" width="250" src="./Descargar.png" height="50"></a></p>
 
 1. Download the 12 Rules to Learn to Code eBook
 1. Download the Required Software
