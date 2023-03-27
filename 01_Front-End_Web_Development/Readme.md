@@ -4,6 +4,7 @@
 1. Download the Course Syllabus
     > [Descargar el programa del curso](https://drive.google.com/uc?export=download&id=1uhCUGouBsclvAH8S9d-_Z9B5hKnKdCoR)
 1. Download the Course Resources
+
 1. Download the 12 Rules to Learn to Code eBook
 1. Download the Required Software
 1. How Does the Internet Actually Work?
