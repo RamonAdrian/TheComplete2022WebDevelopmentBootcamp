@@ -6,6 +6,10 @@
 1. Download the Course Resources
     > A lo largo del curso, se señalará hacia plantillas de proyectos, herramientas increíbles, enlaces, recursos y lecturas de fondo que ayudarán a aprender sobre desarrollo web. Se han recopilado todos juntos agrupados por módulo, para que puedan ser encontrados fácilmente.
 
+    > Haga clic en el botón a continuación para descargar el PDF de recursos del curso, de modo que siempre que necesite un enlace podrá consultar la lista.
+
+    > <p><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/uc?export=download&amp;id=1LRN_G51Wm67rsry0mw1FrIfW8oXX6Zzz"><button style="background-color:#008CBA;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">DESCARGAR</button></a></p>
+
 1. Download the 12 Rules to Learn to Code eBook
 1. Download the Required Software
 1. How Does the Internet Actually Work?
