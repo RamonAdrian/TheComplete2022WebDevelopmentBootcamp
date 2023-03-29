@@ -8,8 +8,10 @@
 <br><br>
 
 1. [What You'll Get in This Course](./01_What_You'll_Get_in_This_Course/Readme.md)
+<br><br>
 1. Download the Course Syllabus
     > [Descargar el programa del curso](https://drive.google.com/uc?export=download&id=1uhCUGouBsclvAH8S9d-_Z9B5hKnKdCoR)
+<br><br>
 1. Download the Course Resources
     > A lo largo del curso, se señalará hacia plantillas de proyectos, herramientas increíbles, enlaces, recursos y lecturas de fondo que ayudarán a aprender sobre desarrollo web. Se han recopilado todos juntos agrupados por módulo, para que puedan ser encontrados fácilmente.
 
