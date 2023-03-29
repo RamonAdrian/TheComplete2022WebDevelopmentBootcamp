@@ -22,7 +22,7 @@
 
 1. Download the 12 Rules to Learn to Code eBook
     ><p><a target="_blank" rel="noopener noreferrer" href="https://att-c.udemycdn.com/2021-11-02_15-48-58-9cc341f572e648c2df98cc8e419251a8/original.pdf?response-content-disposition=attachment%3B+filename%3D12%2BRules%2Bto%2BLearn%2Bto%2BCode%2B%255B2nd%2BEdition%255D%2B2022.pdf&Expires=1680002044&Signature=HIBSMJr~Mgle4TBH-8eXKi~TU-np1hbVT5P87-OHW~7q~yvTELKasXMQq6Vo2yJ6rVzblT~jwtP7vyCGRs9S3ETsSp3l7ntkvSoVEmgmU6M469W1qhzXkxOPF9gLsJmgE4~6hwXXvhkJDRvfcbequpM-u59PPlvU~wPwxAbHC6IstPA-5eVTF8YeFcXl~uE-YkgO9xOC0Tif3HTkW-J~VJ3Uk2HyN~12Drs8WVvIH~xApEMSug1WAac2~RvHoCplFoZYcvXqW5DOCPHNNb3D1m4l9kZxNCU~7Llq-BBZCyOs-UMTcO-~RoqXd0-xqvXXlSMwwh-q7NcelquOlr1SMA__&Key-Pair-Id=APKAITJV77WS5ZT7262A"><img align="middle" width="250" src="./Descargar.png" height="50"></a></p>
-<br><br>
+<br>
 
 1. Download the Required Software
     1. Install Visual Studio Code
