@@ -28,6 +28,7 @@
     1. Install Visual Studio Code
          - This is a free piece of software from Microsoft that you will use to write your code.
 <br><br>
+
 1. How Does the Internet Actually Work?
 
 1. How Do Websites Actually Work?
