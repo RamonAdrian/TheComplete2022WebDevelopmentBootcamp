@@ -33,7 +33,7 @@
     2. Install Google Chrome
         - This is a free browser from Google that we need for development. Even if you normally use another browser, I recommend downloading Chrome for their developer tool suite which we will use extensively in the course.
         
-        
+            
 <br><br>
 
 1. How Does the Internet Actually Work?
