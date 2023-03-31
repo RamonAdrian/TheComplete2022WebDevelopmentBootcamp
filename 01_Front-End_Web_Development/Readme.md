@@ -27,6 +27,9 @@
 1. Download the Required Software
     1. Install Visual Studio Code
          - This is a free piece of software from Microsoft that you will use to write your code.
+
+            https://code.visualstudio.com/
+
 <br><br>
 
 1. How Does the Internet Actually Work?
