@@ -45,4 +45,4 @@
 
 1. How to Get Help When You're Stuck
 
-1. Pathfinder
+1. Pathfinder 
