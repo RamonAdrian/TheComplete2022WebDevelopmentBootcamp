@@ -5,7 +5,8 @@
   <img width="400" src="FE_DEV.jpg">
 </p>
 <hr>
-<br><br>
+<br>
+<br>
 
 1. [What You'll Get in This Course](./01_What_You'll_Get_in_This_Course/Readme.md)
 <br><br>
