@@ -8,7 +8,8 @@
 <br><br>
 
 1. [What You'll Get in This Course](./01_What_You'll_Get_in_This_Course/Readme.md)
-<br><br>
+<br>
+<br>
 
 1. Download the Course Syllabus
     > [Descargar el programa del curso](https://drive.google.com/uc?export=download&id=1uhCUGouBsclvAH8S9d-_Z9B5hKnKdCoR)
